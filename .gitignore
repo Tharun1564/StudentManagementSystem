@@ -10,3 +10,4 @@ frontend/build/
 
 # General
 .DS_Store
+backend/apache-tomcat-10.0.27/
